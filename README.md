@@ -1,6 +1,6 @@
 # Brain stroke detection from CT scans via 3D Convolutional Neural Network
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/Peco602/brain-stroke-detection-3d-cnn/blob/main/brain_stroke_detection_3d_cnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Peco602/brain-stroke-detection-3d-cnn/blob/main/brain_stroke_detection_3d_cnn.ipynb)
 
 Tutorial on how to train a 3D Convolutional Neural Network (3D CNN) to detect the presence of brain stroke.
 
